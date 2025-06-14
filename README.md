@@ -32,7 +32,7 @@ At the end of the event, performance is evaluated based on:
 | Frontend       | React.js               |
 | Styling        | CSS                    |
 | Backend        | Node.js, Express       |
-| Database       | MongoDB with Mongoose  |
+| Database       | MongoDB   |
 | State Storage  | LocalStorage (Frontend), MongoDB (Backend) |
 | Dev Tools      | Vite, ESLint, Nodemon  |
 
