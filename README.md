@@ -160,7 +160,7 @@ Pull requests are welcome. For significant changes, please open an issue to disc
 
 ## License
 
-This project is for internal event use and educational purposes. Contact the organizing team before using or modifying for other events.
+This project is for internal event use and educational purposes. Contact  Karthikeya S before using or modifying for other events.
 
 ## Contact
 
